@@ -1,6 +1,6 @@
-import { Button } from "./button.js";
-import { Input } from "./input.js";
-import { Label } from "./label.js";
+import { Button } from "./class/button.js";
+import { Input } from "./class/input.js";
+import { Label } from "./class/label.js";
 
 class Register {
   constructor() {}
